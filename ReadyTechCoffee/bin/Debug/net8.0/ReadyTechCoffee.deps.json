@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ReadyTechCoffee/1.0.0": {
+        "dependencies": {
+          "ReadyTechCoffee.Business": "1.0.0"
+        },
+        "runtime": {
+          "ReadyTechCoffee.dll": {}
+        }
+      },
+      "ReadyTechCoffee.Business/1.0.0": {
+        "runtime": {
+          "ReadyTechCoffee.Business.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReadyTechCoffee/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReadyTechCoffee.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
